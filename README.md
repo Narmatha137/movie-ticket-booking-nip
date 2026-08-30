@@ -21,5 +21,8 @@ CineWave Entertainment manages movie ticket bookings across multiple theatres. T
 - Pega Platform (Community Edition)
 - Pega Blueprint for application design
 
+## Demo Video
+[Watch the demo video](https://drive.google.com/file/d/1KnLqwfEozGHfhzx-VbEKmUbley-vfgim/view?usp=sharing)
+
 ## Author
 Narmatha Balakrishnan
